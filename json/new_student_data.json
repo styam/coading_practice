@@ -1,0 +1,22 @@
+{
+    "students": [
+        {
+            "name": "Satyam Mishra",
+            "email": "satyam@gmail.com",
+            "college": "UoA",
+            "address": "India South"
+        },
+        {
+            "name": "Nilesh Tomar",
+            "email": "tomar@gmail.com",
+            "college": "UoA",
+            "address": "India"
+        },
+        {
+            "name": "Vivek",
+            "email": "vivek@gmail.com",
+            "college": "UoA",
+            "address": "India North"
+        }
+    ]
+}

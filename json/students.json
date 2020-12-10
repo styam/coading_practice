@@ -1,0 +1,26 @@
+{
+        "students": [
+            {
+                "name": "Satyam Mishra",
+                "phone": "987654321",
+                "email": "satyam@gmail.com",
+                "college": "UoA",
+                "address": "India South"
+            },
+            {
+                "name": "Nilesh Tomar",
+                "phone": "986576331",
+                "email": "tomar@gmail.com",
+                "college": "UoA",
+                "address": "India"
+            },
+            {
+                "name": "Vivek",
+                "phone": "987654123",
+                "email": "vivek@gmail.com",
+                "college": "UoA",
+                "address": "India North"
+            }
+        ]
+    }
+  
