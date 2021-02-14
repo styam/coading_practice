@@ -19,7 +19,6 @@ class BinarySearchTreeNode:
             else:
                 self.right = BinarySearchTreeNode(data)
 
-
     def search(self, val):
         if self.data == val:
             return True
@@ -81,13 +80,14 @@ class BinarySearchTreeNode:
 
 
 def build_tree(elements):
-    print("Building tree with these elements:",elements)
+    print("Building tree with these elements:", elements)
     root = BinarySearchTreeNode(elements[0])
 
-    for i in range(1,len(elements)):
+    for i in range(1, len(elements)):
         root.add_child(elements[i])
 
     return root
+
 
 if __name__ == '__main__':
     numbers_tree = build_tree([17, 4, 1, 20, 9, 23, 18, 34])

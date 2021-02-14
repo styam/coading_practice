@@ -1,18 +1,32 @@
-class linkedListNode:
-    def __init__(self, value, nextNode=None):
-        self.value = value
-        self.nextNode = nextNode
+class HashTable:
+    def __init__(self):
+        self.MAX = 100
+        self.arr = [None for i in range(self.MAX)]
 
-node1 = linkedListNode("2")
-node2 = linkedListNode("5")
-node3 = linkedListNode("8")
 
-node1.nextNode = node2
-node2.nextNode = node3
+    def get_hash(self, key):
+        h = 0
+        for char in key:
+            h += ord(char)
+        return h % self.MAX
 
-currentNode = node1
-while True:
-    print(currentNode.value, "-->")
-    if currentNode.nextNode is None:
-        break
-    currentNode = currentNode.nextNode
+    def __setitem__(self, key, value):
+        h = self.get_hash(key)
+        self.arr[h] = value
+
+    def __getitem__(self, key):
+        h = self.get_hash(key)
+        return self.arr[h]
+
+    def __delitem__(self, key):
+        h = self.get_hash(key)
+        self.arr[h] = None
+
+
+
+t = HashTable()
+t['march 9'] = 130
+t['march 1'] = 20
+t['march 17'] = 27
+
+print(t.arr)

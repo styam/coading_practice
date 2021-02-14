@@ -1,0 +1,183 @@
+[
+	{
+		"cc_emails": [],
+		"fwd_emails": [],
+		"reply_cc_emails": [],
+		"fr_escalated": false,
+		"spam": false,
+		"group_id": 14000118224,
+		"priority": 1,
+		"requester_id": 14000247149,
+		"source": 2,
+		"status": 2,
+		"subject": "Japantown 2 | SW - 1 - 21:80 - Z-Frequency Ping",
+		"department_id": 14000119885,
+		"id": 50711,
+		"type": "Incident",
+		"due_by": "2021-01-08T10:11:21Z",
+		"fr_due_by": "2021-01-06T10:11:21Z",
+		"is_escalated": false,
+		"description": "<div>This device has missed 25 or more pings over the last 24 hours. This ticket will be closed automatically once this drops below 20.</div>",
+		"description_text": "This device has missed 25 or more pings over the last 24 hours. This ticket will be closed automatically once this drops below 20.",
+		"category": "Incident",
+		"sub_category": "On Site Client Hardware Issues",
+		"item_category": "Frequency",
+		"custom_fields": {
+			"destination_ticket": 22439,
+			"alternate_customer_contact_info": false,
+			"asset_attached": "No"
+		},
+		"created_at": "2021-01-05T10:11:21Z",
+		"updated_at": "2021-01-05T10:11:36Z",
+		"deleted": false
+	},
+	{
+		"cc_emails": [],
+		"fwd_emails": [],
+		"reply_cc_emails": [],
+		"fr_escalated": false,
+		"spam": false,
+		"group_id": 14000118224,
+		"priority": 1,
+		"requester_id": 14000247149,
+		"responder_id": 14000999702,
+		"source": 2,
+		"status": 2,
+		"subject": "Highlands of Millbrook 3 | Radio - 2 - 52:80 - Z-Frequency Ping",
+		"department_id": 14000119885,
+		"id": 50710,
+		"type": "Incident",
+		"due_by": "2021-01-08T09:53:05Z",
+		"fr_due_by": "2021-01-06T09:53:05Z",
+		"is_escalated": false,
+		"description": "<div>This device has missed 25 or more pings over the last 24 hours. This ticket will be closed automatically once this drops below 20.</div>",
+		"description_text": "This device has missed 25 or more pings over the last 24 hours. This ticket will be closed automatically once this drops below 20.",
+		"category": "Incident",
+		"sub_category": "On Site Client Hardware Issues",
+		"item_category": "Frequency",
+		"custom_fields": {
+			"destination_ticket": 22438,
+			"agent_response": false,
+			"alternate_customer_contact_info": false,
+			"asset_attached": "No"
+		},
+		"created_at": "2021-01-05T09:53:05Z",
+		"updated_at": "2021-01-05T09:53:25Z",
+		"deleted": false
+	},
+	{
+		"cc_emails": [
+			"manilasmimobileleaders@stealthmonitoring.com"
+		],
+		"fwd_emails": [],
+		"reply_cc_emails": [
+			"manilasmimobileleaders@stealthmonitoring.com"
+		],
+		"fr_escalated": false,
+		"spam": false,
+		"email_config_id": 14000007620,
+		"group_id": 14000118224,
+		"priority": 1,
+		"requester_id": 14000905171,
+		"responder_id": 14000242343,
+		"source": 1,
+		"status": 2,
+		"subject": "Keybaord issue",
+		"to_emails": [
+			"service <service@stealthmonitoring.com>"
+		],
+		"department_id": 14000119885,
+		"id": 50709,
+		"type": "Incident",
+		"due_by": "2021-01-08T09:35:43Z",
+		"fr_due_by": "2021-01-06T09:35:43Z",
+		"is_escalated": false,
+		"description": "<div style=\"font-family: Calibri, Arial, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0);\">\n<div style=\"margin:0px;font-size:12pt;color:black;background-color:white\">\n<div style=\"margin:0px;font-size:15px;color:rgb(32, 31, 30);background-color:white\">\n<span style='margin:0px;font-family:\"Segoe UI\", system-ui, \"Apple Color Emoji\", \"Segoe UI Emoji\", sans-serif;background-color:white'><span style=\"margin:0px\">Hi Team,</span></span>\n</div>\n<div style=\"margin:0px;background-color:white\"></div>\n<span style='margin:0px;font-size:15px;font-family:\"Segoe UI\", system-ui, \"Apple Color Emoji\", \"Segoe UI Emoji\", sans-serif;color:rgb(32, 31, 30);background-color:white'><span style=\"margin:0px\">\n<div style=\"margin:0px\"><span style=\"margin:0px;background-color:white\"><span style=\"margin:0px\"><br>\n</span></span></div>\nDetails of the incident: Some keypad not working</span></span>\n</div>\n<div style=\"margin:0px;font-size:15px;color:rgb(32, 31, 30);background-color:white\">\n<div style='margin:0px;font-family:\"Segoe UI\", system-ui, \"Apple Color Emoji\", \"Segoe UI Emoji\", sans-serif;background-color:white'>\nStation Affected: Salarium station</div>\n</div>\n<br>\n</div>\n<div>\n<div id=\"Signature\">\n<div>\n<div style=\"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">\n<br>\n</div>\n<div style=\"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">\n<br>\n</div>\n<div style=\"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">\n</div>\n<div style=\"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt\">\n<div style=\"color:rgb(0,0,0); margin:0px; font-size:12pt; font-family:Calibri,Helvetica,sans-serif; text-align:start; background-color:rgb(255,255,255)\">\n<b>Regards,</b>\n</div>\n<div style=\"color:rgb(0,0,0); margin:0px; font-size:12pt; font-family:Calibri,Helvetica,sans-serif; text-align:start; background-color:rgb(255,255,255)\">\n<b><br>\n</b>\n</div>\n<div style=\"color:rgb(0,0,0); margin:0px; font-size:12pt; font-family:Calibri,Helvetica,sans-serif; text-align:start; background-color:rgb(255,255,255)\">\n<span style=\"margin:0px; font-size:11pt\"><b></b></span>\n</div>\n<b style=\"color:rgb(32,31,30); text-align:start; font-size:14.67px; font-family:Calibri,sans-serif; background-color:white\"><span lang=\"en-CA\" style=\"margin:0px; font-size:10pt; font-family:Tahoma,sans-serif; color:black; background-color:white\"></span></b><b style=\"color:rgb(32,31,30); text-align:start; font-size:14.67px; font-family:Calibri,sans-serif; background-color:white\"><span lang=\"en-CA\" style=\"margin:0px; font-size:10pt; font-family:Tahoma,sans-serif; color:black; background-color:white\">Kenn\n Medina<br>\nTeam Leader, Monitoring Centre</span></b><b style=\"color:rgb(32,31,30); text-align:start; font-size:14.67px; font-family:Calibri,sans-serif; background-color:white\"><span lang=\"en-CA\" style=\"margin:0px; font-family:Tahoma,sans-serif; color:dimgray; background-color:white\"><br>\n</span></b><i style=\"color:rgb(32,31,30); text-align:start; font-size:14.67px; font-family:Calibri,sans-serif; background-color:white\"><span lang=\"en-CA\" style=\"margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; color:rgb(192,0,0); background-color:white\">p</span></i><i style=\"color:rgb(32,31,30); text-align:start; font-size:14.67px; font-family:Calibri,sans-serif; background-color:white\"><span lang=\"en-CA\" style=\"margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; color:dimgray; background-color:white\"> </span></i><span lang=\"en-CA\" style=\"color:dimgray; margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; text-align:start; background-color:white\">+1-905-405-9898 <span style=\"margin:0px; background-color:white\">ext.\n 309</span> | </span><i style=\"color:rgb(32,31,30); text-align:start; font-size:14.67px; font-family:Calibri,sans-serif; background-color:white\"><span lang=\"en-CA\" style=\"margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; color:rgb(192,0,0); background-color:white\">t</span></i><span lang=\"en-CA\" style=\"color:rgb(5,99,193); margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; text-align:start; background-color:white\"> </span><span lang=\"en-CA\" style=\"color:dimgray; margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; text-align:start; background-color:white\">+</span><span lang=\"en-CA\" style='color:black; margin:0px; font-size:11.5pt; font-family:\"Segoe UI\",sans-serif; text-align:start; background-color:white'> </span><span lang=\"en-CA\" style=\"color:dimgray; margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; text-align:start; background-color:white\">1-866-756-7847</span><b style=\"color:rgb(32,31,30); text-align:start; font-size:14.67px; font-family:Calibri,sans-serif; background-color:white\"><span lang=\"en-CA\" style=\"margin:0px; font-size:9pt; color:black; background-color:white\"><br>\n</span></b><span lang=\"en-CA\" style=\"color:rgb(118,113,113); margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; text-align:start; background-color:white\">Email:</span><span lang=\"en-CA\" style=\"margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; text-align:start; background-color:white\"><font color=\"#000000\"></font></span><span lang=\"en-CA\" style=\"color:rgb(127,127,127); margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; text-align:start; background-color:white\"><span lang=\"en-CA\" style=\"margin:0px; font-size:9pt; color:black; background-color:white\"> </span><span lang=\"en-CA\" style=\"margin:0px; font-size:9pt; color:rgb(127,127,127); background-color:white\"><span lang=\"en-CA\" style=\"margin:0px; font-size:9pt; color:black; background-color:white\"> </span><span lang=\"en-CA\" style=\"margin:0px; font-size:9pt; color:rgb(127,127,127); background-color:white\"><a href=\"mailto:ffagan@stealthmonitoring.com\" target=\"_blank\" rel=\"noreferrer\" style=\"margin:0px\"><span style=\"margin:0px; color:rgb(149,79,114)\">Kmedina@stealthmonitoring.com</span></a></span></span></span><b style=\"color:rgb(32,31,30); text-align:start; font-size:14.67px; font-family:Calibri,sans-serif; background-color:white\"><span lang=\"en-CA\" style=\"margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; color:black; background-color:white\"><br>\n</span></b><span lang=\"en-CA\" style=\"color:rgb(118,113,113); margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; text-align:start; background-color:white\">Web:</span><span lang=\"en-CA\" style=\"color:black; margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; text-align:start; background-color:white\">  </span><span lang=\"en-CA\" style=\"color:rgb(127,127,127); margin:0px; font-size:9pt; font-family:Tahoma,sans-serif; text-align:start; background-color:white\"><a href=\"https://stealthmonitoring.com/\" target=\"_blank\" rel=\"noreferrer\" style=\"margin:0px\">StealthMonitoring.com</a></span><br>\n</div>\n</div>\n</div>\n</div>\n\n\n",
+		"description_text": "Hi Team,\r\n\r\nDetails of the incident: Some keypad not working\r\nStation Affected: Salarium station\r\n\r\n\r\n\r\nRegards,\r\n\r\nKenn Medina\r\nTeam Leader, Monitoring Centre\r\np +1-905-405-9898 ext. 309 | t + 1-866-756-7847\r\nEmail:  Kmedina@stealthmonitoring.com<mailto:ffagan@stealthmonitoring.com>\r\nWeb:  StealthMonitoring.com<https://stealthmonitoring.com/>\r\n\r\n",
+		"custom_fields": {
+			"destination_ticket": 22437,
+			"alternate_customer_contact_info": false,
+			"asset_attached": "No"
+		},
+		"created_at": "2021-01-05T09:35:43Z",
+		"updated_at": "2021-01-05T09:45:34Z",
+		"deleted": false
+	},
+	{
+		"cc_emails": [
+			"tsheffer@stealthmonitoring.com"
+		],
+		"fwd_emails": [],
+		"reply_cc_emails": [
+			"tsheffer@stealthmonitoring.com"
+		],
+		"fr_escalated": false,
+		"spam": false,
+		"email_config_id": 14000007620,
+		"group_id": 14000118224,
+		"priority": 1,
+		"requester_id": 14000888490,
+		"responder_id": 14000999702,
+		"source": 1,
+		"status": 3,
+		"subject": "RE: Zello: Matrix 4",
+		"to_emails": [
+			"service <service@stealthmonitoring.com>"
+		],
+		"department_id": 14000119885,
+		"id": 50708,
+		"type": "Incident",
+		"due_by": "2021-01-08T08:54:39Z",
+		"fr_due_by": "2021-01-06T08:54:39Z",
+		"is_escalated": false,
+		"description": "<div class=\"WordSection1\">\n<div class=\"MsoNormal\">Team, </div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\">It appears this ticket was previously closed without resolution. Please provide an update as we are unable to utilize this workstation for daily operations.\n</div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\"></div>\n<div> </div>\n<div></div>\n<div class=\"MsoNormal\">Thank You, </div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\"></div>\n<div> </div>\n<div></div>\n<div>\n<div class=\"MsoNormal\" style=\"background:white\">\n<b><span lang=\"EN-CA\" style='font-size:10.0pt;font-family:\"Tahoma\",sans-serif;color:black'>Chris Smith<br>\nMonitoring Manager</span></b><b><span lang=\"EN-CA\" style='font-family:\"Tahoma\",sans-serif;color:dimgray'><br>\n</span></b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:dimgray'>15182 Marsh Lane, Addison, TX 75001</span><span style=\"color:#201F1E\"></span>\n</div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\" style=\"background:white\">\n<i><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#C00000'>M </span></i><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:dimgray'>+1-214-341-0123 \n ext. 332</span><b><span lang=\"EN-CA\" style=\"font-size:9.0pt;color:black\"><br>\n</span></b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#767171'>Email:</span><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:black'> </span><u><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#0563C1'><a href=\"mailto:csmith@stealthmonitoring.com\" target=\"_blank\" rel=\"noreferrer\">csmith@stealthmonitoring.com</a></span></u><b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:black'><br>\n</span></b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#767171'>Web:</span><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:black'>  <a href=\"http://www.stealthmonitoring.com/\" target=\"_blank\" rel=\"noreferrer\">www.Stealthmonitoring.com</a></span><span lang=\"EN-CA\" style='font-family:\"Tahoma\",sans-serif;color:black'><br>\n</span><span style=\"color:black\"><a href=\"https://www.stealthmonitoring.com/?utm_source=Corporate%20Email%20Signature%20Logo&amp;utm_medium=Corporate%20Email%20Signature%20Logo&amp;utm_campaign=Corporate%20Email%20Signature%20Logo\" target=\"_blank\" rel=\"noreferrer\"><span style='font-family:\"Tahoma\",sans-serif;color:black;text-decoration:none'><img width=\"197\" height=\"42\" style=\"width:2.052in;height:.4375in\" id=\"Picture_x0020_3\" src=\"https://attachment.freshservice.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTQwMDk0Njc1MDQsImRvbWFpbiI6InN0ZWFsdGhtb25pdG9yaW5nLmZyZXNoc2VydmljZS5jb20iLCJ0eXBlIjoxfQ.AMUw9ewfwsZIOOVaq1q7S9DVhJfJ3dLC6L-0j2BvhJ0\" class=\"inline-image\" data-id=\"14009467504\"></span></a></span><span style=\"color:#201F1E\"></span>\n</div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\" style=\"background:white\"><span style=\"color:#201F1E\"></span></div>\n<div> </div>\n<div></div>\n<div class=\"MsoNormal\" style=\"background:white\"><span style=\"color:#201F1E\">        \n<a href=\"https://www.linkedin.com/company/stealth-monitoring-inc-\" rel=\"noreferrer\">Linkedin</a> | \n<a href=\"https://twitter.com/stealthmonitor\" rel=\"noreferrer\">Twitter</a></span></div>\n<div></div>\n<div></div>\n</div>\n<div class=\"MsoNormal\"></div>\n<div> </div>\n<div></div>\n<div>\n<div style=\"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0in 0in\">\n<div class=\"MsoNormal\">\n<b>From:</b> Chris Smith <br>\n<b>Sent:</b> Sunday, December 20, 2020 2:25 AM<br>\n<b>To:</b> Sheila Adams &lt;sadams@stealthmonitoring.com&gt;; ITStaff &lt;itstaff@stealthmonitoring.com&gt;; Supervisors &amp; Leads &lt;Supervisors@stealthmonitoring.com&gt;<br>\n<b>Cc:</b> service &lt;Service@stealthmonitoring.com&gt;<br>\n<b>Subject:</b> RE: Zello: Matrix 4<br>\n<b>Importance:</b> High</div>\n<div></div>\n<div></div>\n</div>\n</div>\n<div class=\"MsoNormal\"></div>\n<div> </div>\n<div></div>\n<div class=\"MsoNormal\">Team, </div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\"></div>\n<div> </div>\n<div></div>\n<div class=\"MsoNormal\">Is this issue with Matrix 4 being worked on? Can you please provide an update?</div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\"></div>\n<div> </div>\n<div></div>\n<div class=\"MsoNormal\">Thank You, </div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\"></div>\n<div> </div>\n<div></div>\n<div>\n<div class=\"MsoNormal\">\n<b><span lang=\"EN-CA\" style='font-size:10.0pt;font-family:\"Tahoma\",sans-serif;color:black'>Chris Smith<br>\nMonitoring Manager</span></b><b><span lang=\"EN-CA\" style='font-family:\"Tahoma\",sans-serif;color:dimgray'><br>\n</span></b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:dimgray'>15182 Marsh Lane, Addison, TX 75001</span>\n</div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\">\n<i><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#C00000'>M\n</span></i><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:dimgray'>+1214-341-0123 ext.332</span><b><span lang=\"EN-CA\" style=\"font-size:9.0pt;color:black\"><br>\n</span></b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#767171'>Email:</span><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:black'> </span><u><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#0563C1'><a href=\"mailto:csmith@stealthmonitoring.com\" rel=\"noreferrer\"><span style=\"color:#0563C1\">csmith@stealthmonitoring.com</span></a></span></u><b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:black'><br>\n</span></b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#767171'>Web:</span><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:black'>  </span><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#4472C4'><a href=\"http://www.stealthmonitoring.com/?utm_source=email%20signature&amp;utm_medium=email%20signature&amp;utm_campaign=email%20signature\" rel=\"noreferrer\"><span style=\"color:#4472C4\">Stealthmonitoring.com</span></a></span><span lang=\"EN-CA\" style='font-family:\"Tahoma\",sans-serif;color:black'><br>\n</span><a href=\"https://www.stealthmonitoring.com/?utm_source=Corporate%20Email%20Signature%20Logo&amp;utm_medium=Corporate%20Email%20Signature%20Logo&amp;utm_campaign=Corporate%20Email%20Signature%20Logo\" rel=\"noreferrer\"><span style='font-family:\"Tahoma\",sans-serif;color:black;text-decoration:none'><img width=\"197\" height=\"42\" style=\"width:2.052in;height:.4375in\" id=\"Picture_x0020_5\" src=\"https://attachment.freshservice.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTQwMDk0Njc1MDUsImRvbWFpbiI6InN0ZWFsdGhtb25pdG9yaW5nLmZyZXNoc2VydmljZS5jb20iLCJ0eXBlIjoxfQ.bTTi5ovpl18zrAhtfmrkMNAVd_xTz1h49dTjHYUgIBc\" class=\"inline-image\" data-id=\"14009467505\"></span></a>\n</div>\n<div></div>\n<div></div>\n</div>\n<div class=\"MsoNormal\"></div>\n<div> </div>\n<div></div>\n<div>\n<div style=\"border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0in 0in\">\n<div class=\"MsoNormal\">\n<b>From:</b> Sheila Adams &lt;<a href=\"mailto:sadams@stealthmonitoring.com\" rel=\"noreferrer\">sadams@stealthmonitoring.com</a>&gt;\n<br>\n<b>Sent:</b> Friday, December 18, 2020 8:35 PM<br>\n<b>To:</b> ITStaff &lt;<a href=\"mailto:itstaff@stealthmonitoring.com\" rel=\"noreferrer\">itstaff@stealthmonitoring.com</a>&gt;; Supervisors &amp; Leads &lt;<a href=\"mailto:Supervisors@stealthmonitoring.com\" rel=\"noreferrer\">Supervisors@stealthmonitoring.com</a>&gt;<br>\n<b>Subject:</b> Re: Zello: Matrix 4</div>\n<div></div>\n<div></div>\n</div>\n</div>\n<div class=\"MsoNormal\"></div>\n<div> </div>\n<div></div>\n<div>\n<div class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt;color:black\">Hey ITStaff,</span></div>\n<div></div>\n<div></div>\n</div>\n<div>\n<div class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt;color:black\"></span></div>\n<div> </div>\n<div></div>\n</div>\n<div>\n<div class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt;color:black\">Looks like the Zello on Matrix 4 has killed over, again. We rebooted the station a couple of times to see if it would hold on, but it keeps freezing and stops all together\n after a few minutes of running the application. Let me know if you guys need me to update the SMSS Ticket.</span></div>\n<div></div>\n<div></div>\n</div>\n<div>\n<div class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt;color:black\"></span></div>\n<div> </div>\n<div></div>\n</div>\n<div>\n<div class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt;color:black\">Thanks,</span></div>\n<div></div>\n<div></div>\n</div>\n<div>\n<div>\n<div class=\"MsoNormal\"><span style=\"font-size:12.0pt;color:black\"></span></div>\n<div> </div>\n<div></div>\n</div>\n<div id=\"Signature\">\n<div>\n<div id=\"divtagdefaultwrapper\">\n<div>\n<div class=\"MsoNormal\" style=\"background:white\">\n<b><span lang=\"EN-CA\" style='font-size:10.0pt;font-family:\"Tahoma\",sans-serif;color:black'>Sheila N. Adams<br>\nMonitoring Supervisor</span></b><b><span lang=\"EN-CA\" style='font-size:12.0pt;font-family:\"Tahoma\",sans-serif;color:dimgray'><br>\n</span></b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:dimgray'>15182 Marsh Lane, Dallas, TX 75001<br>\n</span><i><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#C00000'>p</span></i><i><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:dimgray'> </span></i><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:dimgray'>+1-214-341-0123\n x415  | </span><i><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#C00000'>m </span></i><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:dimgray'>+1-817-422-1176</span><b><span lang=\"EN-CA\" style=\"font-size:9.0pt;color:black\"><br>\n</span></b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#767171'>Email:</span><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:black'>\n</span><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#4472C4'><a href=\"mailto:%5BYour%C2%A0Email%7d@stealthmonitoring.com\" target=\"_blank\" rel=\"noreferrer\"><span style=\"color:#4472C4\">sadams@stealthmonitoring.com</span></a></span><b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:black'><br>\n</span></b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#767171'>Web:</span><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:black'>  </span><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#4472C4'><a href=\"http://www.stealthmonitoring.com/?utm_source=email%20signature&amp;utm_medium=email%20signature&amp;utm_campaign=email%20signature\" target=\"_blank\" rel=\"noreferrer\"><span style=\"color:#4472C4\">Stealthmonitoring.com</span></a></span><span lang=\"EN-CA\" style='font-size:12.0pt;font-family:\"Tahoma\",sans-serif;color:black'><br>\n</span><span style=\"color:black\"><a href=\"https://www.stealthmonitoring.com/?utm_source=Corporate%20Email%20Signature%20Logo&amp;utm_medium=Corporate%20Email%20Signature%20Logo&amp;utm_campaign=Corporate%20Email%20Signature%20Logo\" target=\"_blank\" rel=\"noreferrer\"><span style='font-size:12.0pt;font-family:\"Tahoma\",sans-serif;color:black;text-decoration:none'><img width=\"196\" height=\"42\" style=\"width:2.0416in;height:.4375in\" id=\"OWAPstImg801262\" src=\"https://attachment.freshservice.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTQwMDk0Njc1MDYsImRvbWFpbiI6InN0ZWFsdGhtb25pdG9yaW5nLmZyZXNoc2VydmljZS5jb20iLCJ0eXBlIjoxfQ.gFueMcgAL_XqIhOK7kwItzkFhmCa0-OswTOKZL6msxQ\" class=\"inline-image\" data-id=\"14009467506\"></span></a></span><span style=\"font-size:12.0pt;color:black\"></span>\n</div>\n<div></div>\n<div></div>\n</div>\n<div class=\"MsoNormal\" style=\"background:white\"><span style=\"font-size:12.0pt;color:black\"></span></div>\n<div> </div>\n<div></div>\n<div style=\"background:white\"><span style=\"font-size:12.0pt;color:black\"></span></div>\n<div> </div>\n<div></div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"MsoNormal\" align=\"center\" style=\"text-align:center\">\n<hr align=\"center\">\n</div>\n<div id=\"divRplyFwdMsg\">\n<div class=\"MsoNormal\">\n<b><span style=\"color:black\">From:</span></b><span style=\"color:black\"> ITStaff &lt;<a href=\"mailto:itstaff@stealthmonitoring.com\" rel=\"noreferrer\">itstaff@stealthmonitoring.com</a>&gt;<br>\n<b>Sent:</b> Friday, December 18, 2020 8:48 AM<br>\n<b>To:</b> Supervisors &amp; Leads &lt;<a href=\"mailto:Supervisors@stealthmonitoring.com\" rel=\"noreferrer\">Supervisors@stealthmonitoring.com</a>&gt;<br>\n<b>Subject:</b> Zello: Matrix 4</span> </div>\n<div></div>\n<div></div>\n<div>\n<div class=\"MsoNormal\"> </div>\n<div></div>\n<div></div>\n</div>\n</div>\n<div>\n<div>\n<div class=\"xmsonormal\"><a rel=\"noreferrer\"><span style='font-size:9.0pt;font-family:\"Verdana\",sans-serif;color:black;background:white'>Zello has been reinstalled on Matrix 4. It appears to be working properly now. If stops working again let us know.\n</span></a></div>\n<div></div>\n<div></div>\n<div class=\"xmsonormal\"><span style='font-size:9.0pt;font-family:\"Verdana\",sans-serif;color:black;background:white'> </span></div>\n<div></div>\n<div></div>\n<div class=\"xmsonormal\"><a href=\"http://10.10.50.228:83/viewserviceticket.aspx?id=138975\" rel=\"noreferrer\">http://10.10.50.228:83/viewserviceticket.aspx?id=138975</a></div>\n<div></div>\n<div></div>\n<div class=\"xmsonormal\"> </div>\n<div></div>\n<div></div>\n<div class=\"xmsonormal\">\n<b><span style=\"font-size:12.0pt;color:black\">Beau Barbeau<br>\n</span></b><b><span style=\"font-size:10.0pt;color:black\">IT specialist</span></b><span style=\"font-size:12.0pt;color:black\"><br>\n</span><span style=\"font-size:12.0pt;color:red\">Stealth Monitoring</span><b><span style=\"font-size:9.0pt;color:dimgray\"><br>\n</span></b><span style=\"font-size:9.0pt;color:dimgray\">15182 Marsh Lane, Dallas, TX 75001<br>\n</span><i><span style=\"font-size:9.0pt;color:#0070C0\">p</span></i><i><span style=\"font-size:9.0pt;color:dimgray\"> </span></i><span style=\"font-size:9.0pt;color:dimgray\">+1-214-341-0123 x[804]\n</span><b><span style=\"font-size:9.0pt;color:black\"><br>\n</span></b><span style=\"font-size:10.0pt;font-family:Wingdings;color:#1F497D;background:white\">*</span><i><span style=\"font-size:9.0pt;color:#1F497D\">: </span></i><a href=\"mailto:ITStaff@stealthmonitoring.com\" rel=\"noreferrer\"><span style=\"font-size:9.0pt\">ITStaff@stealthmonitoring.com</span></a>\n</div>\n<div></div>\n<div></div>\n<div class=\"xmsonormal\" style=\"margin-bottom:12.0pt\">\n<span style=\"font-size:10.0pt;font-family:Wingdings;color:#1F497D;background:white\">8</span><span style=\"font-size:9.0pt;color:#1F497D\">:  </span><a href=\"http://www.stealthmonitoring.com/?utm_source=email%20signature&amp;utm_medium=email%20signature&amp;utm_campaign=email%20signature\" rel=\"noreferrer\"><span style=\"font-size:9.0pt;color:#0563C1\">Stealthmonitoring.com</span></a>\n</div>\n<div></div>\n<div></div>\n<div class=\"xmsonormal\"> </div>\n<div></div>\n<div></div>\n</div>\n</div>\n</div>\n\n\n",
+		"description_text": "Team,  \n \n \n It appears this ticket was previously closed without resolution. Please provide an update as we are unable to utilize this workstation for daily operations.\n \n \n \n \n   \n \n Thank You,  \n \n \n \n   \n \n \n \nChris Smith \nMonitoring Manager \n15182 Marsh Lane, Addison, TX 75001\n \n \n \n \nM +1-214-341-0123 \n ext. 332 \nEmail: csmith@stealthmonitoring.com \nWeb:  www.Stealthmonitoring.com \n\n \n \n \n  \n   \n \n         \nLinkedin | \nTwitter \n \n \n \n \n   \n \n \n \n \nFrom: Chris Smith  \nSent: Sunday, December 20, 2020 2:25 AM \nTo: Sheila Adams <sadams@stealthmonitoring.com>; ITStaff <itstaff@stealthmonitoring.com>; Supervisors & Leads <Supervisors@stealthmonitoring.com> \nCc: service <Service@stealthmonitoring.com> \nSubject: RE: Zello: Matrix 4 \nImportance: High \n \n \n \n \n \n   \n \n Team,  \n \n \n \n   \n \n Is this issue with Matrix 4 being worked on? Can you please provide an update? \n \n \n \n   \n \n Thank You,  \n \n \n \n   \n \n \n \nChris Smith \nMonitoring Manager \n15182 Marsh Lane, Addison, TX 75001\n \n \n \n \nM\n+1214-341-0123 ext.332 \nEmail: csmith@stealthmonitoring.com \nWeb:  Stealthmonitoring.com \n\n \n \n \n \n \n   \n \n \n \n \nFrom: Sheila Adams <sadams@stealthmonitoring.com>\n \nSent: Friday, December 18, 2020 8:35 PM \nTo: ITStaff <itstaff@stealthmonitoring.com>; Supervisors & Leads <Supervisors@stealthmonitoring.com> \nSubject: Re: Zello: Matrix 4 \n \n \n \n \n \n   \n \n \n Hey ITStaff, \n \n \n \n \n  \n   \n \n \n \n Looks like the Zello on Matrix 4 has killed over, again. We rebooted the station a couple of times to see if it would hold on, but it keeps freezing and stops all together\n after a few minutes of running the application. Let me know if you guys need me to update the SMSS Ticket. \n \n \n \n \n  \n   \n \n \n \n Thanks, \n \n \n \n \n \n  \n   \n \n \n \n \n \n \n \nSheila N. Adams \nMonitoring Supervisor \n15182 Marsh Lane, Dallas, TX 75001 \np +1-214-341-0123\n x415  | m +1-817-422-1176 \nEmail:\nsadams@stealthmonitoring.com \nWeb:  Stealthmonitoring.com \n\n \n \n \n \n  \n   \n \n  \n   \n \n \n \n \n \n \n \n \n \n \nFrom: ITStaff <itstaff@stealthmonitoring.com> \nSent: Friday, December 18, 2020 8:48 AM \nTo: Supervisors & Leads <Supervisors@stealthmonitoring.com> \nSubject: Zello: Matrix 4  \n \n \n \n   \n \n \n \n \n \n \n Zello has been reinstalled on Matrix 4. It appears to be working properly now. If stops working again let us know.\n \n \n \n   \n \n \n http://10.10.50.228:83/viewserviceticket.aspx?id=138975 \n \n \n   \n \n \n \nBeau Barbeau \nIT specialist \nStealth Monitoring \n15182 Marsh Lane, Dallas, TX 75001 \np +1-214-341-0123 x[804]\n \n*: ITStaff@stealthmonitoring.com\n \n \n \n \n8:  Stealthmonitoring.com\n \n \n \n  ",
+		"custom_fields": {
+			"destination_ticket": 22436,
+			"agent_response": false,
+			"alternate_customer_contact_info": false,
+			"asset_attached": "No"
+		},
+		"created_at": "2021-01-05T08:54:39Z",
+		"updated_at": "2021-01-05T09:24:22Z",
+		"deleted": false
+	},
+	{
+		"cc_emails": [
+			"dallassups_leads@stealthmonitoring.com"
+		],
+		"fwd_emails": [],
+		"reply_cc_emails": [
+			"dallassups_leads@stealthmonitoring.com"
+		],
+		"fr_escalated": false,
+		"spam": false,
+		"email_config_id": 14000007620,
+		"group_id": 14000183524,
+		"priority": 1,
+		"requester_id": 14000888490,
+		"source": 1,
+		"status": 2,
+		"subject": "Dallas Matrix_1 Workstation",
+		"to_emails": [
+			"service <service@stealthmonitoring.com>"
+		],
+		"department_id": 14000119885,
+		"id": 50707,
+		"type": "Incident",
+		"due_by": "2021-01-08T09:12:51Z",
+		"fr_due_by": "2021-01-06T08:48:26Z",
+		"is_escalated": false,
+		"description": "<div class=\"WordSection1\">\n<div class=\"MsoNormal\">Team, </div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\">It appears Matrix Station 1 in the control room is having some network connectivity issues. The Cat5 cable was changed and continued to end in intermittent network connectivity loss. Could be the RJ45 biscuit or the NIC card on the tower\n itself. Please assist with investigating as this is one of our main workstations for daily operations.\n</div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\"></div>\n<div> </div>\n<div></div>\n<div class=\"MsoNormal\">Thank You, </div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\"></div>\n<div> </div>\n<div></div>\n<div class=\"MsoNormal\" style=\"background:white\">\n<b><span lang=\"EN-CA\" style='font-size:10.0pt;font-family:\"Tahoma\",sans-serif;color:black'>Chris Smith<br>\nMonitoring Manager</span></b><b><span lang=\"EN-CA\" style='font-family:\"Tahoma\",sans-serif;color:dimgray'><br>\n</span></b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:dimgray'>15182 Marsh Lane, Addison, TX 75001</span><span style=\"color:#201F1E\"></span>\n</div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\" style=\"background:white\">\n<i><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#C00000'>M </span></i><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:dimgray'>+1-214-341-0123 \n ext. 332</span><b><span lang=\"EN-CA\" style=\"font-size:9.0pt;color:black\"><br>\n</span></b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#767171'>Email:</span><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:black'> </span><u><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#0563C1'><a href=\"mailto:csmith@stealthmonitoring.com\" target=\"_blank\" rel=\"noreferrer\"><span style=\"color:blue\">csmith@stealthmonitoring.com</span></a></span></u><b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:black'><br>\n</span></b><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:#767171'>Web:</span><span lang=\"EN-CA\" style='font-size:9.0pt;font-family:\"Tahoma\",sans-serif;color:black'>  <a href=\"http://www.stealthmonitoring.com/\" target=\"_blank\" rel=\"noreferrer\"><span style=\"color:blue\">www.Stealthmonitoring.com</span></a></span><span lang=\"EN-CA\" style='font-family:\"Tahoma\",sans-serif;color:black'><br>\n</span><span style=\"color:black\"><a href=\"https://www.stealthmonitoring.com/?utm_source=Corporate%20Email%20Signature%20Logo&amp;utm_medium=Corporate%20Email%20Signature%20Logo&amp;utm_campaign=Corporate%20Email%20Signature%20Logo\" target=\"_blank\" rel=\"noreferrer\"><span style='font-family:\"Tahoma\",sans-serif;color:black;text-decoration:none'><img width=\"197\" height=\"42\" style=\"width:2.052in;height:.4375in\" id=\"Picture_x0020_1\" src=\"https://attachment.freshservice.com/inline/attachment?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MTQwMDk0NjczODgsImRvbWFpbiI6InN0ZWFsdGhtb25pdG9yaW5nLmZyZXNoc2VydmljZS5jb20iLCJ0eXBlIjoxfQ.7UJfdkShVJ4PAugNv7pJR73KMTadJkFt2riXhj3R5e0\" class=\"inline-image\" data-id=\"14009467388\"></span></a></span><span style=\"color:#201F1E\"></span>\n</div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\" style=\"background:white\"><span style=\"color:#201F1E\"></span></div>\n<div> </div>\n<div></div>\n<div class=\"MsoNormal\" style=\"background:white\"><span style=\"color:#201F1E\">        \n<a href=\"https://www.linkedin.com/company/stealth-monitoring-inc-\" rel=\"noreferrer\"><span style=\"color:blue\">Linkedin</span></a> | \n<a href=\"https://twitter.com/stealthmonitor\" rel=\"noreferrer\"><span style=\"color:blue\">Twitter</span></a></span></div>\n<div></div>\n<div></div>\n<div class=\"MsoNormal\"></div>\n<div> </div>\n<div></div>\n</div>\n\n\n",
+		"description_text": "Team,  \n \n \n It appears Matrix Station 1 in the control room is having some network connectivity issues. The Cat5 cable was changed and continued to end in intermittent network connectivity loss. Could be the RJ45 biscuit or the NIC card on the tower\n itself. Please assist with investigating as this is one of our main workstations for daily operations.\n \n \n \n \n   \n \n Thank You,  \n \n \n \n   \n \n \nChris Smith \nMonitoring Manager \n15182 Marsh Lane, Addison, TX 75001\n \n \n \n \nM +1-214-341-0123 \n ext. 332 \nEmail: csmith@stealthmonitoring.com \nWeb:  www.Stealthmonitoring.com \n\n \n \n \n  \n   \n \n         \nLinkedin | \nTwitter \n \n \n \n  ",
+		"custom_fields": {
+			"destination_ticket": 22435,
+			"agent_response": false,
+			"alternate_customer_contact_info": false,
+			"asset_attached": "No"
+		},
+		"created_at": "2021-01-05T08:48:26Z",
+		"updated_at": "2021-01-05T09:32:36Z",
+		"deleted": false
+	}
+]
