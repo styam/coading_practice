@@ -1,3 +1,8 @@
+"""
+There is another implementation of this using stack please look,
+in stack folder
+"""
+
 def rightmost_greater(arr, left, right):
     if left <= right:
         if arr[left]  > arr[right]:

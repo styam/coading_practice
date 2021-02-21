@@ -34,7 +34,7 @@ def countChar(str, x):
 
 # Using single line -----------------
 
-name = "abc"
+name = "abcacabcac"
 num = 10
 
 res = name.count("a") * (num//len(name)) + name[num % len(name)].count('a')
