@@ -55,6 +55,3 @@ else:
 	print("Can not be divided into ",
 		"two subsets of equal sum")
 
-# This code is contributed
-# by mohit kumar 29
-
