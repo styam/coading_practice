@@ -1,4 +1,21 @@
 #========================method 1=================
+def is_palindrome(name):
+    s = ""
+    for i in name:
+        s = i + s
+
+    if s == name:
+        print("True")
+
+    else:
+        print("False")
+
+
+is_palindrome("nitin")
+
+
+
+#========================method 2=================
 def isPalindrome(s):
     return s == s[::-1]
 
@@ -10,7 +27,7 @@ if ans:
 else:
     print("No")
 
-# ============================method 2===============
+# ============================method 3===============
 def isPalindrome(s):
 
     rev = ''.join(reversed(s))
